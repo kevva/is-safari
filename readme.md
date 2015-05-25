@@ -1,4 +1,4 @@
-# is-safari [![Build Status](https://travis-ci.org/kevva/is-safari.svg?branch=master)](https://travis-ci.org/kevva/is-safari)
+# is-safari
 
 > Check if browser is Safari
 
