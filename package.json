@@ -1,0 +1,26 @@
+{
+  "name": "is-safari",
+  "version": "1.0.0",
+  "description": "Check if browser is Safari",
+  "license": "MIT",
+  "repository": "kevva/is-safari",
+  "author": {
+    "name": "Kevin Martensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "browser",
+    "check",
+    "detect",
+    "internet",
+    "safari",
+    "webkit"
+  ]
+}
